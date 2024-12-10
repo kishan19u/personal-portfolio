@@ -350,7 +350,7 @@ nav .fa-solid{
 } */
 @media only screen and (max-width: 576px) {
     #header {
-        background-image: url('phone\ bacground\ .jpeg'); /* Fixed the image path */
+        background-image: url('phone\ bacground\ .jpeg'); 
     }
     .header-text {
         margin-top: 100%;
@@ -421,7 +421,7 @@ nav .fa-solid{
   }
 .header-text p{
     color: #f0ebef;
-    text-align: center;
+/*     text-align: center; */
   }
   .header-text p span{
     color: #eb2f09;
