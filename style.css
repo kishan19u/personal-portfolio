@@ -353,7 +353,7 @@ nav .fa-solid{
         background-image: url('phone\ bacground\ .jpeg'); /* Fixed the image path */
     }
     .header-text {
-        margin-top: 120%;
+        margin-top: 100%;
         font-size: 16px;
     }
     .header-text h1 {
@@ -419,7 +419,7 @@ nav .fa-solid{
     
   }
 .header-text p{
-    color: #2338d7;
+    color: #e32dc132;
     text-align: center;
   }
   .header-text p span{
