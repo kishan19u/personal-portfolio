@@ -418,5 +418,14 @@ nav .fa-solid{
     font-style: italic;
     
   }
+.header-text p{
+    color: #b397a0;
+    text-align: center;
+  }
+  .header-text p span{
+    color: #eb2f09;
+    
+  }
+  
   
 
