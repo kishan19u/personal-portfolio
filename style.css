@@ -355,6 +355,7 @@ nav .fa-solid{
     .header-text {
         margin-top: 100%;
         font-size: 16px;
+        margin-left: 20%;
     }
     .header-text h1 {
         font-size: 30px;
@@ -424,7 +425,7 @@ nav .fa-solid{
   }
   .header-text p span{
     color: #eb2f09;
-    margin-left : 20px;
+    
   }
   
   
