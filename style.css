@@ -421,11 +421,12 @@ nav .fa-solid{
   }
 .header-text p{
     color: #f0ebef;
+    margin-left: 70%;
 /*     text-align: center; */
   }
   .header-text p span{
     color: #eb2f09;
-   margin-left: 70%;
+   
   }
   
   
